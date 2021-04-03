@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background: #252525;
+    font-family: Segoe UI;
+}
+.panel{
+    height: 80px;
+    width: 100%;
+    background: #333333;
+}
+.panelopt{
+    width: 100px;
+    height: 80px;
+}
+.whitecentered{
+    margin-top: 20.5%;
+    color: white;
+    position: relative;
+    text-align: center;
+}
+.whitecenteredn{
+    margin-top: 0.5%;
+    color: white;
+    position: relative;
+    text-align: center;
+}
